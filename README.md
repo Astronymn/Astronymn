@@ -1,4 +1,4 @@
-- @Astronymn
+- @astronymn
 - Python
 
 
